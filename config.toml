@@ -1,0 +1,94 @@
+
+  [tasks.derp]
+  title = "derp"
+  desc = "derp derp"
+
+
+  [tasks.fun]
+  title = "fun"
+  desc = "have some fun"
+
+
+  [tasks.fun5]
+  title = "fun5"
+  desc = "so much fun"
+  completed = "false"
+
+
+  [tasks.fun3]
+  title = "fun3"
+  desc = "have lots of fun"
+  completed = "true"
+
+
+  [tasks.fun4]
+  title = "fun4"
+  desc = "lots and lots of fun"
+  completed = "false"
+
+
+  [tasks.finale]
+  title = "Finale"
+  desc = "finale party"
+  completed = "false"
+
+
+  [tasks.soda3]
+  title = "soda3"
+  desc = "get another soda"
+
+
+  [tasks.soda2]
+  title = "soda2"
+  desc = "get some soda"
+
+
+  [tasks.fun2]
+  title = "fun2"
+  desc = "have more fun"
+
+
+  [tasks.sleep_again]
+  title = "sleep_again"
+  desc = "have some good sleep"
+
+
+  [tasks.online wiki library]
+  title = "online wiki library"
+  desc = "halls and bookshelfs. random wiki excerpts. walking through annals of human knowledge online."
+
+
+  [tasks.test1]
+  title = "test1"
+  desc = "testing 123"
+
+
+  [tasks.test3]
+  title = "test3"
+  desc = "another test"
+
+
+  [tasks.get soda]
+  title = "get soda"
+  desc = "go to market and find soda"
+
+
+  [tasks.get_more_soda]
+  title = "Get_more_soda"
+  desc = "get yet another soda"
+
+
+  [tasks.sleep]
+  title = "sleep"
+  desc = "go to sleep"
+
+
+  [tasks.sandwich]
+  title = "sandwich"
+  desc = "make a sandwich"
+
+
+  [tasks.take a nap]
+  title = "take a nap"
+  desc = ""
+
