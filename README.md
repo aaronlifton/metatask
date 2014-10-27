@@ -1,4 +1,4 @@
-# quux
+# MetaTask
 
 The project uses [Midje](https://github.com/marick/Midje/).
 
