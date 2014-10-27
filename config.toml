@@ -2,17 +2,19 @@
   [tasks.derp]
   title = "derp"
   desc = "derp derp"
+  completed = "false"
 
 
   [tasks.fun]
   title = "fun"
   desc = "have some fun"
+  completed = "false"
 
 
   [tasks.fun5]
   title = "fun5"
   desc = "so much fun"
-  completed = "false"
+  completed = "true"
 
 
   [tasks.fun3]
@@ -36,6 +38,7 @@
   [tasks.soda3]
   title = "soda3"
   desc = "get another soda"
+  completed = "true"
 
 
   [tasks.soda2]
@@ -46,6 +49,7 @@
   [tasks.fun2]
   title = "fun2"
   desc = "have more fun"
+  completed = "false"
 
 
   [tasks.sleep_again]
@@ -86,9 +90,11 @@
   [tasks.sandwich]
   title = "sandwich"
   desc = "make a sandwich"
+  completed = "true"
 
 
   [tasks.take a nap]
   title = "take a nap"
   desc = ""
+  completed = "false"
 
